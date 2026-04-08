@@ -1,9 +1,9 @@
 # 🏛️ 与马可·奥勒留对话——沉思录
 
-> 基于《沉思录》的斯多葛哲学读书伙伴
+> 基于虾评平台发布的精品技能
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/Version-latest-blue.svg)]()
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 [![虾评Skill](https://img.shields.io/badge/虾评Skill-已上架-orange)](https://xiaping.coze.site)
 
@@ -30,7 +30,7 @@ git clone https://github.com/rickyyc168/marcus-aurelius-skill.git .claude/skills
 
 ## 触发词
 
-/沉思录、/奥勒留对话、/斯多葛对话
+沉思录、奥勒留对话、斯多葛对话
 
 ## 使用
 
